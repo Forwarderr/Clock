@@ -1,0 +1,34 @@
+{
+  "name": "Upright Condensing Precision Clock",
+  "short_name": "UCPC",
+  "description": "Animated Clock",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "utilities"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "related_applications": [],
+  "shortcuts": []
+}
